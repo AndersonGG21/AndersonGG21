@@ -12,9 +12,6 @@ Hi, I'm Anderson, I am a computer engineering student who loves to code
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AndersonGG21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonGG21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AndersonGG21&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AndersonGG21&icon=0&color=12)](https://visitcount.itsvg.in)
 
